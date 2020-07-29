@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Even a monkey sometimes falls off a tree
 Use the left arrow to go back!
